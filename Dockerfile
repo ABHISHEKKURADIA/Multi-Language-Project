@@ -8,4 +8,4 @@ ENV PORT=1998
 
 EXPOSE 1998
 
-CMD [ "node", "app.js" ]
+CMD [ "node", "./scripts/app.js" ]

@@ -1,0 +1,20 @@
+{
+  "name": "multi-language-project",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/ABHISHEKKURADIA/Multi-Language-Project#readme",
+  "bugs": {
+    "url": "https://github.com/ABHISHEKKURADIA/Multi-Language-Project/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ABHISHEKKURADIA/Multi-Language-Project.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
